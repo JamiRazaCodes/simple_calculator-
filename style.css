@@ -1,0 +1,22 @@
+.calc{
+margin: 20% 0% 40% 40%;
+}
+
+input{
+    background-color: rgb(255, 255, 255);
+    border: 1px solid;
+    margin: 3px;
+    height: 30px;
+    width: 210px;
+}
+
+button{
+    height: 50px;
+    width: 50px;
+    margin-top: 3px;
+    margin-right: 3px;
+    padding: 10px;
+    background-color: lightgray;
+    border: none;
+    border-radius: 20%;
+}
